@@ -23,7 +23,14 @@
 # Technologies used 🔧 
 
 - **Machine Learning** :
-  *list of tools
+  * Pandas
+  * SQLite 3
+  * TfidVectorizer
+  * Scikit-learn
+  * Tensorflow
+  * Keras
+  * TFJS
+  * Matplotlib
   
 - **Cloud & Backend** : 
    *list of tools
